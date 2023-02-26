@@ -1,0 +1,40 @@
+/* Write your code here. */
+.bg-container{
+background-image:url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
+background-size:cover;
+height:100vh;
+display:flex;
+flex-direction:column;
+text-align:center;
+align-items:center;
+
+}
+.heading{
+    color: black;
+    font-family:'Roboto';
+    font-size:30px
+
+}
+.card-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color:#cffafe;
+   
+    height:400px;
+    width:500px
+}
+.image1{
+    height:100px;
+    width:100px;
+}
+.parson-name{
+    color:#1e293b;
+    font-size:30px;
+}
+.paragraph{
+    color:#1e293b;
+    font-size:20px;
+    
+}
+
